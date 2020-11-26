@@ -6,4 +6,5 @@
 
 # 참여 방법
 * 개인 REPOSITORY 에 매일 link 들을 md 파일로 담아 push 한다.
-* push 한 파일의 경로를 이 저장소의 (YEAR-MONTH) 디렉토리에 있는 md 파일에 기록한다. (ex - 2020-11/box.md ... DAY 13 [이혁진 box](링크url))
+* push 한 파일의 경로를 이 저장소의 (YEAR-MONTH) 디렉토리에 있는 md 파일에 기록한다. 
+	* (ex - 2020-11/box.md ... DAY 13 [이혁진 box](링크url))
