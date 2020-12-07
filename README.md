@@ -19,3 +19,5 @@
 # 참여자
 * [이혁진](https://github.com/hyukjin-lee/tech-link-box)
 * [위제현](https://github.com/wijehyeon/tis)
+* [배종진](https://github.com/imbf/link-box)
+* [Kiki](https://github.com/GiPyoo/today-i-saw)
