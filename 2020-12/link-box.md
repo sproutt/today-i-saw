@@ -6,3 +6,6 @@
 
 # DAY 2~7
 * [이혁진](https://github.com/hyukjin-lee/link-box/blob/main/2020-12/2020-12-02-07.md)
+
+# DAY 8
+* [정회형](https://github.com/hotheadfactory/today-i-saw/blob/main/2020-12/2020-12-08.md)
