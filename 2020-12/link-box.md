@@ -9,3 +9,6 @@
 
 # DAY 8
 * [정회형](https://github.com/hotheadfactory/today-i-saw/blob/main/2020-12/2020-12-08.md)
+
+# DAY 9
+- [위제현](https://github.com/wijehyeon/tis/blob/main/2020-12/20201209.md)
