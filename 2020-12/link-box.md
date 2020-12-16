@@ -12,3 +12,6 @@
 
 # DAY 9
 - [위제현](https://github.com/wijehyeon/tis/blob/main/2020-12/20201209.md)
+
+# DAY 16
+- [김기표](https://github.com/GiPyoo/today-i-saw/blob/main/2020-12/2020-12-16.md)
