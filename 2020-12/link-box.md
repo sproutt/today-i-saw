@@ -15,3 +15,6 @@
 
 # DAY 16
 - [김기표](https://github.com/GiPyoo/today-i-saw/blob/main/2020-12/2020-12-16.md)
+
+# DAY ~29
+- [이혁진](https://github.com/hyukjin-lee/link-box/blob/main/2020-12/2020-12-08-29.md)
